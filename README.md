@@ -15,6 +15,9 @@
 
 ## Features
 
+![MediSense-AI](misc/project_ss0.png)
+
+
 - **User-Friendly Interface:** Easy symptom input for quick medicine recommendations.
 - **Intelligent Recommendations:** Uses AI to provide accurate medicine suggestions based on user input.
 - **Detailed Information:** Offers insights into possible diseases, active ingredients, dosages, and estimated treatment costs.
@@ -53,6 +56,9 @@ To run the MediSense-AI application locally, follow these steps:
 2. Enter your symptoms in the input box, separated by commas (e.g., "fever, cough, headache").
 3. Click the "Get Prescription" button to receive medicine recommendations.
 4. Review the suggestions, including possible diseases, active ingredients, dosages, and estimated treatment costs.
+
+![MediSense-AI](misc/project_ss2.png)
+
    
 ## Datasets
 1. Indian-Medicine-Dataset - https://github.com/junioralive/Indian-Medicine-Dataset
