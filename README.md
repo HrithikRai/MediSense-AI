@@ -1,6 +1,6 @@
 # MediSense-AI
 
-![MediSense-AI](misc/ambulance.gif)
+![MediSense-AI](misc/main_project.png)
 
 **MediSense-AI** is a personal medicine assistant designed to help users make informed decisions about their health by providing personalized medicine recommendations based on their symptoms. This project utilizes a weighted semantic search approach over a vector dataset in PineCone. It comes with a user-friendly interface, making healthcare more accessible and efficient.
 
@@ -71,3 +71,5 @@ To run the MediSense-AI application locally, follow these steps:
 4. Multilingual Support: Introduce support for multiple languages to cater to a wider audience.
 
 ## Contributions are welcome! If you'd like to contribute to the MediSense-AI project I'd be more than happy!
+![MediSense-AI](misc/ambulance.gif)
+
