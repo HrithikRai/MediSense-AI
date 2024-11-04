@@ -1,0 +1,87 @@
+,drug_id,drug_name,type,disease,adult_dosage (times/day),dosage (num_days),name,price_per_tablet,symptom
+0,1,Amoxycillin,Penicillin,Bacterial Infections,2,7.0,Augmentin 625 Duo Tablet,22.342,"fever, cough"
+1,2,Ibuprofen,NSAID,Pain Relief,3,5.0,Adiflam Plus 400 mg/500 mg Tablet,1.95,"inflammation, joint pain"
+2,3,Metformin,Biguanide,Diabetes,2,30.0,Afoglip M  500 Tablet ER,17.053333333333335,"high blood sugar, high insulin"
+3,5,Cetirizine,Antihistamine,Allergy,1,3.0,Alerid Syrup,0.728,runny nose
+4,6,Paracetamol,Analgesic,Fever,3,3.0,Acton-OR Tablet SR,5.055,headache
+5,7,Omeprazole,Proton Pump Inhibitor,GERD and Acid Reflux,1,14.0,Acid 20 Capsule,2.2,heartburn
+6,8,Losartan,Angiotensin II Receptor Antagonist,Hypertension,1,30.0,Amlozaar Tablet,16.6,high blood pressure
+7,10,Diclofenac,NSAID,Pain and Inflammation,2,7.0,AT SP Tablet,6.2,back pain
+8,11,Azithromycin,Macrolide Antibiotic,Bacterial Infections,1,5.0,Azithral 500 Tablet,26.472,throat pain
+9,12,Ranitidine,H2 Blocker,Acid Reflux,1,14.0,Aciloc 150 Tablet,1.3646666666666667,stomach discomfort
+10,13,Hydroxychloroquine,Antimalarial,Malaria,2,7.0,Auto Q 200mg Tablet,7.369,fever
+11,14,Dextromethorphan,Antitussive,Cough,3,5.0,Alex Cough Lozenges Lemon Ginger,10.8,cough
+12,15,Chlorpheniramine,Antihistamine,Allergy,2,3.0,Alex Junior Syrup,1.5833333333333333,itchy skin
+13,16,Atorvastatin,Statin,Hypercholesterolemia,1,30.0,Atorva Tablet,6.820666666666667,high cholesterol
+14,17,Amlodipine,Calcium Channel Blocker,Hypertension,1,30.0,Amlokind-AT Tablet,2.98,swelling in legs
+15,18,Insulin,Peptide Hormone,Diabetes,2,30.0,Apidra 100IU Cartridge,253.66666666666666,high blood sugar
+16,19,Salbutamol,Beta-2 Agonist,Asthma,3,7.0,Asthalin Syrup,0.19039999999999999,shortness of breath
+17,20,Ondansetron,Antiemetic,Nausea,1,5.0,Anset 4mg Tablet MD,4.9,vomiting
+18,21,Clopidogrel,Antiplatelet,Heart Disease,1,30.0,Aclotil 75mg Tablet,3.7950000000000004,clot prevention
+19,22,Spironolactone,Diuretic,Edema,2,30.0,Aldactone Tablet,2.356666666666667,"swelling, swelling"
+20,23,Carbamazepine,Anticonvulsant,Epilepsy,2,30.0,Acetol 200mg Tablet,1.212,seizures
+21,24,Doxycycline,Tetracycline Antibiotic,Skin Infections,1,10.0,Adoxy LB Capsule,6.2,acne
+22,25,Aspirin,NSAID,Pain Relief,3,5.0,Aztogold 20 Capsule,8.5,fever
+23,26,Naproxen,NSAID,Arthritis,2,10.0,Auxen D 500mg/10mg Tablet,7.365,joint pain
+24,27,Gabapentin,Anticonvulsant,Neuropathic Pain,3,30.0,Acegaba NT 400mg/10mg Tablet,29.45,tingling
+25,28,Sertraline,SSRI,Depression,1,30.0,Actiser 50mg Tablet,3.7060000000000004,depression
+26,29,Rosuvastatin,Statin,Hypercholesterolemia,1,30.0,Arvast 10 Tablet,16.2,leg pain
+27,30,Amiodarone,Antiarrhythmic,Arrhythmia,1,30.0,Amiodar 200 Tablet,14.078,irregular heartbeat
+28,31,Alprazolam,Benzodiazepine,Anxiety,1,14.0,Alprax 0.25 Tablet,1.9333333333333333,sleep disturbances
+29,32,Morphine,Opioid,Pain Management,2,7.0,DURAMOR 10MG TABLET,3.05,severe pain
+30,33,Escitalopram,SSRI,Depression,1,30.0,Anxiset-E Tablet,7.917,anxiety
+31,35,Lisinopril,ACE Inhibitor,Hypertension,1,30.0,Acemin Tablet,1.7559999999999998,chest pain
+32,37,Amantadine,Antiviral,Flu,2,7.0,Amantrel Tablet,14.818000000000001,fever
+33,38,Fluconazole,Antifungal,Fungal Infections,1,14.0,AF 150 Tablet DT,11.45,itching
+34,39,Tamoxifen,SERM,Breast Cancer,1,30.0,Blastofen 20mg Tablet,29.5,tumor reduction
+35,40,Diphenhydramine,Antihistamine,Allergy,1,5.0,Aldryl Soft Gelatin Capsule,1.1119999999999999,sneezing
+36,41,Valacyclovir,Antiviral,Herpes,2,10.0,Abivela 1000mg Tablet,58.0,lesions
+37,42,Acyclovir,Antiviral,Chickenpox,3,7.0,Acivir 400 DT Tablet,15.309999999999999,blisters
+38,44,Melatonin,Sleep Aid,Insomnia,1,5.0,Altonil 3mg Tablet,5.469333333333334,sleep disturbances
+39,45,Baclofen,Muscle Relaxant,Muscle Spasms,3,7.0,Alcofen 10 Tablet,11.7,muscle stiffness
+40,46,Clindamycin,Lincosamide Antibiotic,Bacterial Infections,3,7.0,Acnesol Gel,4.35,"skin infection, pain"
+41,47,Allopurinol,Xanthine Oxidase Inhibitor,Gout,1,30.0,Alnol 100mg Tablet,2.8899999999999997,joint pain
+42,48,Budesonide,Corticosteroid,Asthma,2,30.0,Alvonide 0.5mg Respules,13.965,shortness of breath
+43,49,Esomeprazole,Proton Pump Inhibitor,GERD,1,14.0,Adyom 40mg Tablet,8.0,heartburn
+44,50,Metronidazole,Nitroimidazole Antibiotic,Bacterial Infections,2,5.0,Anaero Gel,7.2,abdominal pain
+45,51,Carvedilol,Beta Blocker,Heart Failure,1,30.0,Cardivas 3.125 Tablet,4.35,dizziness
+46,52,Furosemide,Diuretic,Edema,1,30.0,Amifru 40 Tablet,1.125,fluid retention
+47,53,Propranolol,Beta Blocker,Anxiety,2,14.0,Arminol 20mg Tablet,2.3,palpitations
+48,54,Montelukast,Leukotriene Receptor Antagonist,Allergic Rhinitis,1,30.0,Allegra-M Tablet,24.148,runny nose
+49,55,Warfarin,Anticoagulant,Deep Vein Thrombosis,1,30.0,Cofarin 5mg Tablet,2.31,clot prevention
+50,56,Spironolactone,Aldosterone Antagonist,Heart Failure,1,30.0,Aldactone Tablet,2.356666666666667,"swelling, swelling"
+51,57,Levocetirizine,Antihistamine,Allergy,1,3.0,Allercet Cold Tablet,7.7,sneezing
+52,58,Norfloxacin,Quinolone Antibiotic,UTI,2,7.0,Alflox 400 Tablet,7.0,frequent urination
+53,60,Hydrochlorothiazide,Thiazide Diuretic,Hypertension,1,30.0,Aquazide 12.5 Tablet,1.215,swelling
+54,61,Clindamycin,Lincosamide Antibiotic,Dental Infections,3,7.0,Acnesol Gel,4.35,"skin infection, pain"
+55,62,Topiramate,Anticonvulsant,Migraine,1,14.0,Alotop 25 Tablet,5.4799999999999995,headache
+56,63,Phenytoin,Anticonvulsant,Epilepsy,3,30.0,Abolin 100mg Tablet,1.63,seizures
+57,64,Tramadol,Opioid,Pain Management,2,5.0,Acugesic 50mg Injection,12.34,severe pain
+58,66,Bromhexine,Mucolytic Agent,Cough,2,5.0,Ascoril Plus Expectorant,0.91,phlegm
+59,67,Phenylephrine,Decongestant,Nasal Congestion,1,5.0,Ascoril D Plus Syrup Sugar Free,1.29,runny nose
+60,68,Levofloxacin,Quinolone Antibiotic,Sinusitis,1,7.0,Alevo 500 Tablet,10.024,sinus pain
+61,70,Dipyridamole,Antiplatelet,Heart Disease,1,30.0,Cardiwell 75mg Tablet,0.79,clot prevention
+62,71,Rabeprazole,Proton Pump Inhibitor,Acid Reflux,1,14.0,Acera 20 Capsule,9.065000000000001,acidic taste
+63,72,Tizanidine,Muscle Relaxant,Muscle Pain,3,7.0,Contiz 2mg Tablet,12.2,muscle spasms
+64,78,Miconazole,Antifungal,Skin Infections,2,14.0,Afderm-MN + Cream,8.726666666666667,itchy skin
+65,79,Clotrimazole,Antifungal,Fungal Infections,2,10.0,AF -C Dusting Powder,0.87,skin rash
+66,80,Itraconazole,Antifungal,Fungal Infections,1,7.0,Alcros 100 Capsule,16.6,oral thrush
+67,81,Betamethasone,Corticosteroid,Skin Conditions,1,10.0,Alerkim 0.5mg Tablet,0.39,itching
+68,82,Pantoprazole,Proton Pump Inhibitor,GERD,1,14.0,Aciban 40 Tablet,7.31,heartburn
+69,83,Loratadine,Antihistamine,Allergy,1,3.0,Alaspan AG Syrup,1.34,sneezing
+70,84,Nitrofurantoin,Antibiotic,UTI,2,7.0,Altonin Tablet PR,15.2,frequent urination
+71,85,Metformin,Biguanide,PCOS,1,30.0,Afoglip M  500 Tablet ER,17.053333333333335,"high blood sugar, high insulin"
+72,86,Fluticasone,Corticosteroid,Allergic Rhinitis,1,14.0,Azeflo Nasal Spray,60.01428571428572,stuffy nose
+73,87,Loperamide,Antidiarrheal,Diarrhea,2,5.0,Andial 2mg Tablet,2.45,watery stool
+74,88,Bisoprolol,Beta Blocker,Hypertension,1,30.0,Bisoheart 2.5 Tablet,5.566,dizziness
+75,90,Tetracycline,Antibiotic,Skin Infections,3,7.0,ALCYCLIN 250 MG CAPSULE,1.125,skin rash
+76,91,Lithium,Mood Stabilizer,Bipolar Disorder,2,30.0,A Lith 450mg Tablet SR,2.1,emotional swings
+77,92,Meloxicam,NSAID,Arthritis,1,10.0,Artaz 15mg Tablet,1.6960000000000002,joint stiffness
+78,93,Fenofibrate,Fibrate,Hyperlipidemia,1,30.0,Adilip 45 Tablet DR,9.7,high cholesterol
+79,94,Benazepril,ACE Inhibitor,Hypertension,1,30.0,Apriace 5mg Tablet,21.6,headache
+80,95,Terbutaline,Beta-2 Agonist,Asthma,3,7.0,Astharid T Tablet,1.212,shortness of breath
+81,96,Olmesartan,Angiotensin II Receptor Blocker,Hypertension,1,30.0,Asomex-OH Tablet,17.205000000000002,high blood pressure
+82,97,Colchicine,Anti-Gout Agent,Gout,1,7.0,Colochicine 0.5mg Tablet,1.058,inflammation
+83,98,Hydroxyzine,Antihistamine,Anxiety,1,7.0,Atarax 25mg Tablet,5.7,sedation
+84,99,Orlistat,Lipase Inhibitor,Obesity,1,30.0,AM Slim 120mg Capsule,45.0,weight loss
+85,100,Simvastatin,Statin,Hypercholesterolemia,1,30.0,Alvastin 10mg Tablet,7.0,leg pain

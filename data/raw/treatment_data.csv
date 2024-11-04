@@ -1,0 +1,104 @@
+drug_id,drug_name,type,disease,symptom,adult_dosage (times/day),dosage (num_days)
+1,Amoxycillin,Penicillin,Bacterial Infections,fever,2,7
+1,Amoxycillin,Penicillin,Bacterial Infections,cough,2,7
+2,Ibuprofen,NSAID,Pain Relief,inflammation,3,5
+2,Ibuprofen,NSAID,Pain Relief,joint pain,3,5
+3,Metformin,Biguanide,Diabetes,high blood sugar,2,30
+4,Augmentin,Penicillin Combination,Bacterial Infections,fever,3,5
+4,Augmentin,Penicillin Combination,Bacterial Infections,sore throat,3,5
+5,Cetirizine,Antihistamine,Allergy,runny nose,1,3
+6,Paracetamol,Analgesic,Fever,headache,3,3
+7,Omeprazole,Proton Pump Inhibitor,GERD and Acid Reflux,heartburn,1,14
+8,Losartan,Angiotensin II Receptor Antagonist,Hypertension,high blood pressure,1,30
+9,Levothyroxine,Thyroid Hormone,Hypothyroidism,fatigue,1,30
+10,Diclofenac,NSAID,Pain and Inflammation,back pain,2,7
+11,Azithromycin,Macrolide Antibiotic,Bacterial Infections,throat pain,1,5
+12,Ranitidine,H2 Blocker,Acid Reflux,stomach discomfort,1,14
+13,Hydroxychloroquine,Antimalarial,Malaria,fever,2,7
+14,Dextromethorphan,Antitussive,Cough,cough,3,5
+15,Chlorpheniramine,Antihistamine,Allergy,itchy skin,2,3
+16,Atorvastatin,Statin,Hypercholesterolemia,high cholesterol,1,30
+17,Amlodipine,Calcium Channel Blocker,Hypertension,swelling in legs,1,30
+18,Insulin,Peptide Hormone,Diabetes,high blood sugar,2,30
+19,Salbutamol,Beta-2 Agonist,Asthma,shortness of breath,3,7
+20,Ondansetron,Antiemetic,Nausea,vomiting,1,5
+21,Clopidogrel,Antiplatelet,Heart Disease,clot prevention,1,30
+22,Spironolactone,Diuretic,Edema,swelling,2,30
+23,Carbamazepine,Anticonvulsant,Epilepsy,seizures,2,30
+24,Doxycycline,Tetracycline Antibiotic,Skin Infections,acne,1,10
+25,Aspirin,NSAID,Pain Relief,fever,3,5
+26,Naproxen,NSAID,Arthritis,joint pain,2,10
+27,Gabapentin,Anticonvulsant,Neuropathic Pain,tingling,3,30
+28,Sertraline,SSRI,Depression,depression,1,30
+29,Rosuvastatin,Statin,Hypercholesterolemia,leg pain,1,30
+30,Amiodarone,Antiarrhythmic,Arrhythmia,irregular heartbeat,1,30
+31,Alprazolam,Benzodiazepine,Anxiety,sleep disturbances,1,14
+32,Morphine,Opioid,Pain Management,severe pain,2,7
+33,Escitalopram,SSRI,Depression,anxiety,1,30
+34,Cyclosporine,Immunosuppressant,Autoimmune Disorders,joint pain,2,30
+35,Lisinopril,ACE Inhibitor,Hypertension,chest pain,1,30
+36,Prednisone,Corticosteroid,Inflammation,swelling,1,10
+37,Amantadine,Antiviral,Flu,fever,2,7
+38,Fluconazole,Antifungal,Fungal Infections,itching,1,14
+39,Tamoxifen,SERM,Breast Cancer,tumor reduction,1,30
+40,Diphenhydramine,Antihistamine,Allergy,sneezing,1,5
+41,Valacyclovir,Antiviral,Herpes,lesions,2,10
+42,Acyclovir,Antiviral,Chickenpox,blisters,3,7
+43,Vitamin D3 Supplement,Vitamin Deficiency,Bone Pain,1,30
+44,Melatonin,Sleep Aid,Insomnia,sleep disturbances,1,5
+45,Baclofen,Muscle Relaxant,Muscle Spasms,muscle stiffness,3,7
+46,Clindamycin,Lincosamide Antibiotic,Bacterial Infections,skin infection,3,7
+47,Allopurinol,Xanthine Oxidase Inhibitor,Gout,joint pain,1,30
+48,Budesonide,Corticosteroid,Asthma,shortness of breath,2,30
+49,Esomeprazole,Proton Pump Inhibitor,GERD,heartburn,1,14
+50,Metronidazole,Nitroimidazole Antibiotic,Bacterial Infections,abdominal pain,2,5
+51,Carvedilol,Beta Blocker,Heart Failure,dizziness,1,30
+52,Furosemide,Diuretic,Edema,fluid retention,1,30
+53,Propranolol,Beta Blocker,Anxiety,palpitations,2,14
+54,Montelukast,Leukotriene Receptor Antagonist,Allergic Rhinitis,runny nose,1,30
+55,Warfarin,Anticoagulant,Deep Vein Thrombosis,clot prevention,1,30
+56,Spironolactone,Aldosterone Antagonist,Heart Failure,swelling,1,30
+57,Levocetirizine,Antihistamine,Allergy,sneezing,1,3
+58,Norfloxacin,Quinolone Antibiotic,UTI,frequent urination,2,7
+59,Cephalexin,Cephalosporin Antibiotic,Respiratory Infections,cough,2,7
+60,Hydrochlorothiazide,Thiazide Diuretic,Hypertension,swelling,1,30
+61,Clindamycin,Lincosamide Antibiotic,Dental Infections,pain,3,7
+62,Topiramate,Anticonvulsant,Migraine,headache,1,14
+63,Phenytoin,Anticonvulsant,Epilepsy,seizures,3,30
+64,Tramadol,Opioid,Pain Management,severe pain,2,5
+65,Zinc Supplement,Supplement,Zinc Deficiency,weak immune system,1,30
+66,Bromhexine,Mucolytic Agent,Cough,phlegm,2,5
+67,Phenylephrine,Decongestant,Nasal Congestion,runny nose,1,5
+68,Levofloxacin,Quinolone Antibiotic,Sinusitis,sinus pain,1,7
+69,Amoxicillin-Clavulanate,Penicillin Combo,Upper Respiratory Infection,fever,2,7
+70,Dipyridamole,Antiplatelet,Heart Disease,clot prevention,1,30
+71,Rabeprazole,Proton Pump Inhibitor,Acid Reflux,acidic taste,1,14
+72,Tizanidine,Muscle Relaxant,Muscle Pain,muscle spasms,3,7
+73,Cholecalciferol,Vitamin D Supplement,Deficiency,bone pain,1,30
+74,Iron Supplement,Supplement,Anemia,fatigue,1,30
+75,Mefenamic Acid,NSAID,Pain Relief,menstrual pain,3,5
+76,Dipyrone,Analgesic,Fever,body ache,3,5
+77,Isosorbide Mononitrate,Vasodilator,Heart Failure,chest pain,1,30
+78,Miconazole,Antifungal,Skin Infections,itchy skin,2,14
+79,Clotrimazole,Antifungal,Fungal Infections,skin rash,2,10
+80,Itraconazole,Antifungal,Fungal Infections,oral thrush,1,7
+81,Betamethasone,Corticosteroid,Skin Conditions,itching,1,10
+82,Pantoprazole,Proton Pump Inhibitor,GERD,heartburn,1,14
+83,Loratadine,Antihistamine,Allergy,sneezing,1,3
+84,Nitrofurantoin,Antibiotic,UTI,frequent urination,2,7
+85,Metformin,Biguanide,PCOS,high insulin,1,30
+86,Fluticasone,Corticosteroid,Allergic Rhinitis,stuffy nose,1,14
+87,Loperamide,Antidiarrheal,Diarrhea,watery stool,2,5
+88,Bisoprolol,Beta Blocker,Hypertension,dizziness,1,30
+89,Alendronate,Bisphosphonate,Osteoporosis,bone weakness,1,30
+90,Tetracycline,Antibiotic,Skin Infections,skin rash,3,7
+91,Lithium,Mood Stabilizer,Bipolar Disorder,emotional swings,2,30
+92,Meloxicam,NSAID,Arthritis,joint stiffness,1,10
+93,Fenofibrate,Fibrate,Hyperlipidemia,high cholesterol,1,30
+94,Benazepril,ACE Inhibitor,Hypertension,headache,1,30
+95,Terbutaline,Beta-2 Agonist,Asthma,shortness of breath,3,7
+96,Olmesartan,Angiotensin II Receptor Blocker,Hypertension,high blood pressure,1,30
+97,Colchicine,Anti-Gout Agent,Gout,inflammation,1,7
+98,Hydroxyzine,Antihistamine,Anxiety,sedation,1,7
+99,Orlistat,Lipase Inhibitor,Obesity,weight loss,1,30
+100,Simvastatin,Statin,Hypercholesterolemia,leg pain,1,30
